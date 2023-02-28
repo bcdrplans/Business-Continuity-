@@ -1,2 +1,2 @@
-# Business-Continuity-
+# Business Continuity
 Business Continuity Planning
